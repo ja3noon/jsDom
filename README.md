@@ -1,2 +1,0 @@
-# jsDom
-Created with CodeSandbox
